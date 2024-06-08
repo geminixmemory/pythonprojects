@@ -1,7 +1,7 @@
 """ This program asks the user to input both a numerator & 
     a denominator, then check if they are dividable, PLUS
     to identify whether the numerator is an odd or even number, PLUS
-    whether it is a multiple of 4 or not, so useful ^_^  
+    whether it is a multiple of 4, so useful ^_^  
 """
 
 num = int(input("Pls write a num for dissecting: "))
