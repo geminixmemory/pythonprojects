@@ -11,3 +11,6 @@ for x in range(2, len(list) + 1):
     new_list.append(list[y])
 
 print(" ".join(new_list))
+
+# alternate simpler method
+print(" ".join(ist[::-1]))
