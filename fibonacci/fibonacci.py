@@ -1,3 +1,5 @@
+# This program prints specified quantity of Fibonacci nos, according to the user's instruction
+
 num_qty = int(input("Pls enter the quantity of Fibonacci numbers you want "))
 
 def comput(a):
