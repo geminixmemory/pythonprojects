@@ -1,7 +1,7 @@
 # GEMINI's Command-Line PDF Editor for Python
 
 #### Video Demo:
-`<URL HERE>`
+[`<URL HERE>`](https://youtu.be/TC_oFZKnap4?si=wi7X4IipfASZHiOX)
 
 #### Description:
 Welcome to GEMINI's PDF Editor, a command-line interface tool designed for efficient PDF manipulation. This program enables users to edit PDF documents and save the results in a new file, replicating the functionality of web-based editors but with the flexibility and speed of a local application. It supports several essential PDF editing operations, including files compression and merging, page(s) removal and rotation. Designed for ease of use, it requires no prior coding experience, making it accessible to non-tech users. 😎
