@@ -1,3 +1,9 @@
+# This number guessing game first has the system randomly generated a number between 1 to 9
+# The player / user is then asked to guess the number
+# The program offers feedback / hints as the player guesses along, either too big or too small
+# Upon the correct guess, the program will count how many time the player has tried &
+# the player can always exit the game via a clear y/n instruction 
+
 import random
 
 ans = random.randint(1, 9)
